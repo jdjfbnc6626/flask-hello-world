@@ -7,7 +7,8 @@ phases:
       - python setup.py pytest
 
 artifacts:
-  type: zip
+  # type: zip
+  # caused error, and zip not specified in other buildspec.yml
   files:
     - 'template.yml'
     - 'scripts/**/*'
