@@ -1,0 +1,3 @@
+- Decapitated fork from:  render-examples/flask-hello-world
+- Pasted in:  https://awslabs-code-eu-central-1.s3.eu-central-1.amazonaws.com/blog-for-codedeploy/sample-application.zip
+- But Jenkins build keeps failing
