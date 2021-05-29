@@ -3,7 +3,7 @@ version: 0.2
 phases:
   install:
     commands:
-        - python3 -m pip install flask
+        - python3 -m pip3 install flask
         # TRY DEBUG - python -m pip install Flask
   build:
     commands:
